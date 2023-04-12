@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="test 1" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="&quot;01.01.2020 13:21:32&quot; &quot;05.06.2022 15:45:45&quot;" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Exercise_1" TARGET_NAME="Exercise_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Exercise_1" RUN_TARGET_NAME="Exercise_1">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

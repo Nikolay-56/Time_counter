@@ -1,0 +1,5 @@
+# ninja log v5
+2	73	7020774963938673	CMakeFiles/Exercise_1.dir/main.c.obj	e14409a3a9a80317
+7	81	7020804709779921	CMakeFiles/Exercise_1.dir/time.c.obj	138866fd08196a50
+73	164	7020774964800110	Exercise_1.exe	d0bfbf928c06c620
+1	141	7030196096504728	build.ninja	278cb906e82958a6
